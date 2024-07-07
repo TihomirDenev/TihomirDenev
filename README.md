@@ -26,7 +26,5 @@ Proficient in JavaScript, HTML, CSS, React, and Firebase. Currently expanding my
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tihomirdenev&show_icons=true&locale=en" alt="tihomirdenev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tihomirdenev&" alt="tihomirdenev" /></p>
-
 <h3 align="left"> My Life Philosophy:</h3>
 <p>Approach every task with a positive attitude and a smile, striving to improve and excel each time.😉</p>
