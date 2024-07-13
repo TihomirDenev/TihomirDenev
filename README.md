@@ -57,6 +57,12 @@ Proficient in JavaScript, HTML, CSS, React, and Firebase. Currently expanding my
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="56" height="56"/></a>
 <img width="10" />
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="56" height="56"/> </a>
+<img width="10" />
+<a href="https://daisyui.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/saadeghi/daisyui-images/master/images/daisyui-logo/favicon-192.png" alt="daisyUI" width="56" height="56"/> </a>
+<img width="10" />
+<a href="https://v2.chakra-ui.com/" target="_blank" rel="noreferrer"> <img src="https://www.coffeeclass.io/logos/chakra-ui.png" alt="ChakraUI" width="56" height="56"/> </a>
+<img width="10" />
+<a href="https://eslint.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" alt="ES Lint" width="56" height="56"/> </a>
 
 </div>
 
