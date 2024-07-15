@@ -5,7 +5,7 @@
 <h3 align="center">I'm a passionate 27-year-old front-end developer based in Sofia, Bulgaria, with a strong focus on JavaScript and React. I graduated from the Alpha JS program at Telerik Academy. Driven by a thirst for knowledge and a love for problem-solving, I'm constantly pushing myself to master new technologies and tackle challenges head-on.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 
-<h2 align="left">🤝 Connect with me:</h2>
+<h3 align="left" >🤝 Connect with me:</h3>
 <p align="left">
 <a href="mailto:tihomir.denev22@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/google-gmail.svg" alt="Gmail" height="30" width="40" /></a>
 <a href="https://instagram.com/tixomird" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tixomird" height="30" width="40" /></a>
@@ -13,7 +13,7 @@
 <a href="https://discord.gg/s7raZhHr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="s7raZhHr" height="45" width="55" /></a>
 </p>
 
-<h2 align="left">🌱Education:</h2>
+<h3 align="left">🌱Education:</h3>
 
 - Telerik Academy: Completed Alpha JavaScript Track.
 
@@ -58,7 +58,7 @@ Proficient in JavaScript, HTML, CSS, React, and Firebase. Currently expanding my
 <img width="10" />
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="56" height="56"/></a>
 <img width="10" />
-<a href="https://daisyui.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/saadeghi/daisyui-images/master/images/daisyui-logo/favicon-192.png" alt="daisyUI" width="56" height="56"/> </a>
+<a href="https://daisyui.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/saadeghi/daisyui-images/master/images/daisyui-logo/favicon-192.png" alt="daisyUI" width="56" height="56"/></a>
 <img width="10" />
 <a href="https://v2.chakra-ui.com/" target="_blank" rel="noreferrer"> <img src="https://www.coffeeclass.io/logos/chakra-ui.png" alt="ChakraUI" width="56" height="56"/></a>
 <img width="10" />
