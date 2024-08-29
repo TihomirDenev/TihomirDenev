@@ -65,6 +65,8 @@ Proficient in JavaScript, HTML, CSS, React, and Firebase. Currently expanding my
 <a href="https://v2.chakra-ui.com/" target="_blank" rel="noreferrer"> <img src="https://www.coffeeclass.io/logos/chakra-ui.png" alt="ChakraUI" width="56" height="56"/></a>
 <img width="10" />
 <a href="https://eslint.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" alt="ES Lint" width="56" height="56"/></a>
+<img width="10" />
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" alt="Figma" width="56" height="56"/></a>
 
 </div>
 
