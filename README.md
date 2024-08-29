@@ -1,9 +1,9 @@
-![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
+![MasterHead](assets/gifs/web-developer.gif)
 
 <h1 align="center">Hi 👋, I'm Tihomir Denev</h1>
 
 <h3 align="center">I'm a passionate 27-year-old front-end developer based in Sofia, Bulgaria, with a strong focus on JavaScript and React. I graduated from the Alpha JS program at Telerik Academy. Driven by a thirst for knowledge and a love for problem-solving, I'm constantly pushing myself to master new technologies and tackle challenges head-on.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
+<img align="right" alt="Coding" width="400" src="assets/gifs/web-developer2.gif"/>
 
 <h3 align="left" >🤝 Connect with me:</h3>
 <p align="left">
@@ -30,43 +30,43 @@ Proficient in JavaScript, HTML, CSS, React, and Firebase. Currently expanding my
 
 <div align="center">
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="" title="JavaScript" alt="javascript" width="56" height="56"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="assets/logos/javascript.svg" title="JavaScript" alt="JavaScript" width="56" height="56"/></a>
 <img width="10" />
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="" title="" alt="typescript" width="56" height="56"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="assets/logos/typescript-icon.svg" title="TypeScript" alt="TypeScript" width="56" height="56"/></a>
 <img width="10" />
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="" title="" alt="react" width="56" height="56"/></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="assets/logos/react.svg" title="React" alt="React" width="56" height="56"/></a>
 <img width="10" />
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="" title="" alt="node" width="56" height="56"/></a>
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="assets/logos/nodejs.svg" title="NodeJS" alt="NodeJS" width="56" height="56"/></a>
 <img width="10" />
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="" title="" alt="firebase" width="56" height="56"/></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/firebase.png" title="Firebase" alt="Firebase" width="56" height="56"/></a>
 <img width="10" />
-<a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="" title="" alt="jest" width="56" height="56"/></a>
+<a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="assets/logos/jest.svg" title="Jest" alt="Jest" width="56" height="56"/></a>
 <img width="10" />
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="" title="" alt="css3" width="56" height="56"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="assets/logos/css-3.svg" title="CSS3" alt="CSS3" width="56" height="56"/></a>
 <img width="10" />
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="" title="" alt="html5" width="56" height="56"/></a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="assets/logos/html-5.svg" title="HTML5" alt="HTML5" width="56" height="56"/></a>
 <img width="10" />
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="" title="" alt="github" width="56" height="56"/></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/GitHub.png" title="GitHub" alt="GitHub" width="56" height="56"/></a>
 <img width="10" />
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="" title="" alt="git" width="56" height="56"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/git.png" title="Git" alt="Git" width="56" height="56"/></a>
 <img width="10" />
-<a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"> <img src="" title="" alt="azure" width="56" height="56"/></a>
+<a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"> <img src="assets/logos/Azure.png" title="Azure" alt="Azure" width="56" height="56"/></a>
 <img width="10" />
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="" title="" alt="bash" width="56" height="56"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="assets/logos/bash-icon.svg" title="Bash" alt="Bash" width="56" height="56"/></a>
 <img width="10" />
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="" title="" alt="matlab" width="56" height="56"/></a>
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/matlab.png" title="Matlab" alt="Matlab" width="56" height="56"/></a>
 <img width="10" />
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="" title="" alt="postman" width="56" height="56"/></a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="assets/logos/postman-icon.svg" title="PostMan" alt="PostMan" width="56" height="56"/></a>
 <img width="10" />
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="" title="" alt="tailwind" width="56" height="56"/></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/tailwindcss-icon.svg" title="Tailwind CSS" alt="Tailwind CSS" width="56" height="56"/></a>
 <img width="10" />
-<a href="https://daisyui.com/" target="_blank" rel="noreferrer"> <img src="" title="" alt="daisyUI" width="56" height="56"/></a>
+<a href="https://daisyui.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/daisyUi.png" title="DaisyUI" alt="DaisyUI" width="56" height="56"/></a>
 <img width="10" />
-<a href="https://v2.chakra-ui.com/" target="_blank" rel="noreferrer"> <img src="" title="" alt="ChakraUI" width="56" height="56"/></a>
+<a href="https://v2.chakra-ui.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/chakra-ui.png" title="ChakraUI" alt="ChakraUI" width="56" height="56"/></a>
 <img width="10" />
-<a href="https://eslint.org/" target="_blank" rel="noreferrer"> <img src="" title="" alt="ES Lint" width="56" height="56"/></a>
+<a href="https://eslint.org/" target="_blank" rel="noreferrer"> <img src="assets/logos/eslint.png" title="ES Lint" alt="ES Lint" width="56" height="56"/></a>
 <img width="10" />
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="" title="" alt="Figma" width="56" height="56"/></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/figma.svg" title="Figma" alt="Figma" width="56" height="56"/></a>
 
 </div>
 
