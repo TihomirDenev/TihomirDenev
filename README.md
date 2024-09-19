@@ -9,8 +9,9 @@
 <p align="left">
 <a href="mailto:tihomir.denev22@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/google-gmail.svg" alt="Gmail" height="30" width="40" /></a>
 <a href="https://instagram.com/tixomird" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tixomird" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tihomir-denev-97a388306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tihomir-denev-97a388306" height="30" width="40" /></a>
-<a href="https://discord.gg/s7raZhHr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="s7raZhHr" height="45" width="55" /></a>
+<a href="https://linkedin.com/in/tihomir-denev-97a388306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tihomir-denev" height="30" width="40" /></a>
+<a href="https://discord.gg/s7raZhHr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="45" width="55" /></a>
+ <a href="https://portfolio-tihomirdenevs-projects.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/TihomirDenev/My-PortFolio/ab1ff2b45aee8a1228191cd9be1bcac4ede2b4ff/src/assets/avatar.svg" alt="Portfolio" height="45" width="55" /></a>
 </p>
 
 <h3 align="left">🌱Education:</h3>
