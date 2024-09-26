@@ -27,7 +27,8 @@
 - Science and Mathematics High School: Informatics.
 <br><br>
 <h2 align="left">🛠️ Technical Proficiency:</h2>
-Proficient in JavaScript, HTML, CSS, React, and Firebase. Currently expanding my skills in TypeScript and server-side technologies.
+Proficient in JavaScript, HTML, CSS, and React, with practical experience in building several front-end applications. Actively expanding my skills in Angular, TypeScript, and server-side technologies to enhance my full-stack development capabilities.
+
 
 <h2 align="left">💻 Languages and Tools:</h2>
 
