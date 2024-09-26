@@ -2,7 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Tihomir Denev</h1>
 
-<h3 align="center">I'm a passionate 27-year-old front-end developer based in Sofia, Bulgaria, with a strong focus on JavaScript and React. I graduated from the Alpha JS program at Telerik Academy. Driven by a thirst for knowledge and a love for problem-solving, I'm constantly pushing myself to master new technologies and tackle challenges head-on.</h3>
+<h3 align="center">
+  I'm a passionate 27-year-old front-end developer from Sofia, Bulgaria, with a strong focus on JavaScript and React. I graduated from the Alpha JS program at Telerik Academy. Driven by a thirst for knowledge and a love for problem-solving, I constantly push myself to master new technologies and tackle challenges head-on. Currently, I am working in a company where I study and use Angular, TypeScript, and other related technologies.
+</h3>
+
 <img align="right" alt="Coding" width="400" src="assets/gifs/web-developer2.gif"/>
 
 <h3 align="left" >🤝 Connect with me:</h3>
