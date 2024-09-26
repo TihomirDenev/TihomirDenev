@@ -29,7 +29,6 @@
 <h2 align="left">🛠️ Technical Proficiency:</h2>
 Proficient in JavaScript, HTML, CSS, and React, with practical experience in building several front-end applications. Actively expanding my skills in Angular, TypeScript, and server-side technologies to enhance my full-stack development capabilities.
 
-
 <h2 align="left">💻 Languages and Tools:</h2>
 
 ###
@@ -42,13 +41,13 @@ Proficient in JavaScript, HTML, CSS, and React, with practical experience in bui
 <img width="10" />
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="assets/logos/typescript-icon.svg" title="TypeScript" alt="TypeScript" width="56" height="56"/></a>
 <img width="10" />
-<a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="assets/logos/angular-icon.svg" title="Angular" alt="Angular" width="56" height="56"/></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="assets/logos/angular.png" title="Angular" alt="Angular" width="56" height="56"/></a>
 <img width="10" />
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="assets/logos/html-5.svg" title="HTML5" alt="HTML5" width="56" height="56"/></a>
 <img width="10" />
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="assets/logos/css-3.svg" title="CSS3" alt="CSS3" width="56" height="56"/></a>
 <img width="10" />
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/sass.svg" title="SASS" alt="SASS" width="56" height="56"/></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/sass.png" title="SASS" alt="SASS" width="56" height="56"/></a>
 <img width="10" />
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="assets/logos/nodejs.svg" title="NodeJS" alt="NodeJS" width="56" height="56"/></a>
 <img width="10" />
@@ -64,9 +63,9 @@ Proficient in JavaScript, HTML, CSS, and React, with practical experience in bui
 <img width="10" />
 <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/chakra-ui.png" title="Chakra UI" alt="Chakra UI" width="56" height="56"/></a>
 <img width="10" />
-<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="assets/logos/jenkins.svg" title="Jenkins" alt="Jenkins" width="56" height="56"/></a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="assets/logos/jenkins.png" title="Jenkins" alt="Jenkins" width="56" height="56"/></a>
 <img width="10" />
-<a href="https://bitbucket.org/product/" target="_blank" rel="noreferrer"> <img src="assets/logos/bitbucket.svg" title="Bitbucket" alt="Bitbucket" width="56" height="56"/></a>
+<a href="https://bitbucket.org/product/" target="_blank" rel="noreferrer"> <img src="assets/logos/bb.png" title="Bitbucket" alt="Bitbucket" width="56" height="56"/></a>
 <img width="10" />
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/git.png" title="Git" alt="Git" width="56" height="56"/></a>
 <img width="10" />
@@ -78,16 +77,15 @@ Proficient in JavaScript, HTML, CSS, and React, with practical experience in bui
 <img width="10" />
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/postman-icon.svg" title="Postman" alt="Postman" width="56" height="56"/></a>
 <img width="10" />
-<a href="https://www.keycloak.org/" target="_blank" rel="noreferrer"> <img src="assets/logos/keycloak.png" title="Keycloak" alt="Keycloak" width="56" height="56"/></a>
+<a href="https://www.keycloak.org/" target="_blank" rel="noreferrer"> <img src="assets/logos/keycloack.png" title="Keycloak" alt="Keycloak" width="56" height="56"/></a>
 <img width="10" />
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/vscode.svg" title="Visual Studio Code" alt="Visual Studio Code" width="56" height="56"/></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/vscode.png" title="Visual Studio Code" alt="Visual Studio Code" width="56" height="56"/></a>
 <img width="10" />
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/figma.svg" title="Figma" alt="Figma" width="56" height="56"/></a>
 <img width="10" />
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/Azure.png" title="Azure" alt="Azure" width="56" height="56"/></a>
 
 </div>
-
 
 <h2 align="left">🎓 My certificate</h2>
 
@@ -105,7 +103,7 @@ Proficient in JavaScript, HTML, CSS, and React, with practical experience in bui
  
 ###
 
-<p>Approach every task with a positive attitude and a smile, striving to improve and excel each time.😉</p> 
+<p>Approach every task with a positive attitude and a smile, striving to improve and excel each time.😉</p>
 
 <div align="center">
 
