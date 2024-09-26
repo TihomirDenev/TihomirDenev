@@ -34,47 +34,56 @@ Proficient in JavaScript, HTML, CSS, React, and Firebase. Currently expanding my
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="assets/logos/javascript.svg" title="JavaScript" alt="JavaScript" width="56" height="56"/></a>
 <img width="10" />
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="assets/logos/typescript-icon.svg" title="TypeScript" alt="TypeScript" width="56" height="56"/></a>
-<img width="10" />
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="assets/logos/react.svg" title="React" alt="React" width="56" height="56"/></a>
 <img width="10" />
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="assets/logos/nodejs.svg" title="NodeJS" alt="NodeJS" width="56" height="56"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="assets/logos/typescript-icon.svg" title="TypeScript" alt="TypeScript" width="56" height="56"/></a>
+<img width="10" />
+<a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="assets/logos/angular-icon.svg" title="Angular" alt="Angular" width="56" height="56"/></a>
+<img width="10" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="assets/logos/html-5.svg" title="HTML5" alt="HTML5" width="56" height="56"/></a>
+<img width="10" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="assets/logos/css-3.svg" title="CSS3" alt="CSS3" width="56" height="56"/></a>
+<img width="10" />
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/sass.svg" title="SASS" alt="SASS" width="56" height="56"/></a>
+<img width="10" />
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="assets/logos/nodejs.svg" title="NodeJS" alt="NodeJS" width="56" height="56"/></a>
 <img width="10" />
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/firebase.png" title="Firebase" alt="Firebase" width="56" height="56"/></a>
 <img width="10" />
-<a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="assets/logos/jest.svg" title="Jest" alt="Jest" width="56" height="56"/></a>
-<img width="10" />
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="assets/logos/css-3.svg" title="CSS3" alt="CSS3" width="56" height="56"/></a>
-<img width="10" />
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="assets/logos/html-5.svg" title="HTML5" alt="HTML5" width="56" height="56"/></a>
-<img width="10" />
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/GitHub.png" title="GitHub" alt="GitHub" width="56" height="56"/></a>
-<img width="10" />
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/git.png" title="Git" alt="Git" width="56" height="56"/></a>
-<img width="10" />
-<a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"> <img src="assets/logos/Azure.png" title="Azure" alt="Azure" width="56" height="56"/></a>
-<img width="10" />
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="assets/logos/bash-icon.svg" title="Bash" alt="Bash" width="56" height="56"/></a>
 <img width="10" />
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/matlab.png" title="Matlab" alt="Matlab" width="56" height="56"/></a>
-<img width="10" />
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="assets/logos/postman-icon.svg" title="PostMan" alt="PostMan" width="56" height="56"/></a>
+<a href="https://rxjs.dev/" target="_blank" rel="noreferrer"> <img src="assets/logos/rxjs.svg" title="RxJS" alt="RxJS" width="56" height="56"/></a>
 <img width="10" />
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/tailwindcss-icon.svg" title="Tailwind CSS" alt="Tailwind CSS" width="56" height="56"/></a>
 <img width="10" />
 <a href="https://daisyui.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/daisyUi.png" title="DaisyUI" alt="DaisyUI" width="56" height="56"/></a>
 <img width="10" />
-<a href="https://v2.chakra-ui.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/chakra-ui.png" title="ChakraUI" alt="ChakraUI" width="56" height="56"/></a>
+<a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/chakra-ui.png" title="Chakra UI" alt="Chakra UI" width="56" height="56"/></a>
 <img width="10" />
-<a href="https://eslint.org/" target="_blank" rel="noreferrer"> <img src="assets/logos/eslint.png" title="ES Lint" alt="ES Lint" width="56" height="56"/></a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="assets/logos/jenkins.svg" title="Jenkins" alt="Jenkins" width="56" height="56"/></a>
+<img width="10" />
+<a href="https://bitbucket.org/product/" target="_blank" rel="noreferrer"> <img src="assets/logos/bitbucket.svg" title="Bitbucket" alt="Bitbucket" width="56" height="56"/></a>
+<img width="10" />
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/git.png" title="Git" alt="Git" width="56" height="56"/></a>
+<img width="10" />
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/GitHub.png" title="GitHub" alt="GitHub" width="56" height="56"/></a>
+<img width="10" />
+<a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="assets/logos/jest.svg" title="Jest" alt="Jest" width="56" height="56"/></a>
+<img width="10" />
+<a href="https://eslint.org/" target="_blank" rel="noreferrer"> <img src="assets/logos/eslint.png" title="ESLint" alt="ESLint" width="56" height="56"/></a>
+<img width="10" />
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/postman-icon.svg" title="Postman" alt="Postman" width="56" height="56"/></a>
+<img width="10" />
+<a href="https://www.keycloak.org/" target="_blank" rel="noreferrer"> <img src="assets/logos/keycloak.png" title="Keycloak" alt="Keycloak" width="56" height="56"/></a>
+<img width="10" />
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/vscode.svg" title="Visual Studio Code" alt="Visual Studio Code" width="56" height="56"/></a>
 <img width="10" />
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/figma.svg" title="Figma" alt="Figma" width="56" height="56"/></a>
 <img width="10" />
-<a href="https://www.keycloak.org/" target="_blank" rel="noreferrer"> <img src="assets/logos/keycloack.png" title="KeyCloak" alt="KeyCloak" width="56" height="56"/></a>
-<img width="10" />
-<a href="https://rxjs.dev/" target="_blank" rel="noreferrer"> <img src="assets/logos/rxjs.svg" title="RxJS" alt="RxJS" width="56" height="56"/></a>
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/Azure.png" title="Azure" alt="Azure" width="56" height="56"/></a>
 
 </div>
+
 
 <h2 align="left">🎓 My certificate</h2>
 
