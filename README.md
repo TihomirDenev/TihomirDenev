@@ -105,10 +105,13 @@ Proficient in JavaScript, HTML, CSS, and React, with practical experience in bui
  
 ###
 
-<p>Approach every task with a positive attitude and a smile, striving to improve and excel each time.😉</p> <p align="left"> <img src="https://komarev.com/ghpvc/?username=tihomirdenev&label=Profile%20views&color=0e75b6&style=flat" alt="tihomirdenev" /> </p>
+<p>Approach every task with a positive attitude and a smile, striving to improve and excel each time.😉</p> 
 
 <div align="center">
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TihomirDenev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph" />
+  
   <img src="https://raw.githubusercontent.com/Radoslav-Marinovv/Radoslav-Marinovv/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=tihomirdenev&label=Profile%20views&color=0e75b6&style=flat" alt="tihomirdenev" /> </p>
