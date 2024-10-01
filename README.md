@@ -84,6 +84,8 @@ Proficient in JavaScript, HTML, CSS, and React, with practical experience in bui
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/figma.svg" title="Figma" alt="Figma" width="56" height="56"/></a>
 <img width="10" />
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/Azure.png" title="Azure" alt="Azure" width="56" height="56"/></a>
+<img width="10" />
+<a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img src="assets/logos/JSON.png" title="JSON" alt="JSON" width="56" height="56"/></a>
 
 </div>
 
