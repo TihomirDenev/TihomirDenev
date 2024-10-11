@@ -55,6 +55,8 @@ Proficient in JavaScript, HTML, CSS, and React, with practical experience in bui
 <img width="10" />
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="assets/logos/bash-icon.svg" title="Bash" alt="Bash" width="56" height="56"/></a>
 <img width="10" />
+<a href="https://www.npmjs.com/package/pngjs" target="_blank" rel="noreferrer"> <img src="assets/logos/npm.png" title="NPM" alt="NPM" width="56" height="56"/></a>
+<img width="10" />
 <a href="https://rxjs.dev/" target="_blank" rel="noreferrer"> <img src="assets/logos/rxjs.svg" title="RxJS" alt="RxJS" width="56" height="56"/></a>
 <img width="10" />
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/tailwindcss-icon.svg" title="Tailwind CSS" alt="Tailwind CSS" width="56" height="56"/></a>
@@ -63,6 +65,8 @@ Proficient in JavaScript, HTML, CSS, and React, with practical experience in bui
 <img width="10" />
 <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/chakra-ui.png" title="Chakra UI" alt="Chakra UI" width="56" height="56"/></a>
 <img width="10" />
+<a href="https://primeng.org/" target="_blank" rel="noreferrer"> <img src="assets/logos/primeNg.png" title="PrimeNG" alt="PrimeNG" width="56" height="56"/></a>
+<img width="10" />
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="assets/logos/jenkins.png" title="Jenkins" alt="Jenkins" width="56" height="56"/></a>
 <img width="10" />
 <a href="https://bitbucket.org/product/" target="_blank" rel="noreferrer"> <img src="assets/logos/bb.png" title="Bitbucket" alt="Bitbucket" width="56" height="56"/></a>
@@ -70,6 +74,8 @@ Proficient in JavaScript, HTML, CSS, and React, with practical experience in bui
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/git.png" title="Git" alt="Git" width="56" height="56"/></a>
 <img width="10" />
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/GitHub.png" title="GitHub" alt="GitHub" width="56" height="56"/></a>
+<img width="10" />
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/Azure.png" title="Azure" alt="Azure" width="56" height="56"/></a>
 <img width="10" />
 <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="assets/logos/jest.svg" title="Jest" alt="Jest" width="56" height="56"/></a>
 <img width="10" />
@@ -82,8 +88,6 @@ Proficient in JavaScript, HTML, CSS, and React, with practical experience in bui
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/vscode.png" title="Visual Studio Code" alt="Visual Studio Code" width="56" height="56"/></a>
 <img width="10" />
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/figma.svg" title="Figma" alt="Figma" width="56" height="56"/></a>
-<img width="10" />
-<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="assets/logos/Azure.png" title="Azure" alt="Azure" width="56" height="56"/></a>
 <img width="10" />
 <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img src="assets/logos/JSON.png" title="JSON" alt="JSON" width="56" height="56"/></a>
 
